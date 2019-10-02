@@ -1,4 +1,4 @@
-# Analyzing-New-York-City-Parking-Violations
+# Analyzing New York City Parking Violations
 
 # DATA
 The data we will use is open and available from NYC Open Data:
