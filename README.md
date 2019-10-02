@@ -1,11 +1,11 @@
 # Analyzing-New-York-City-Parking-Violations
 
-## DATA
+# DATA
 The data we will use is open and available from NYC Open Data:
-Parking Violations Issued (Fiscal Year 2016)
-https://data.cityofnewyork.us/City-Government/Parking-Violations-Issued-Fiscal-Year-
-2016/kiv2-tbus/data
-Open Parking and Camera Violations
+
+## Parking Violations Issued (Fiscal Year 2016)
+https://data.cityofnewyork.us/City-Government/Parking-Violations-Issued-Fiscal-Year-2016/kiv2-tbus/data
+## Open Parking and Camera Violations
 https://data.cityofnewyork.us/City-Government/Open-Parking-and-CameraViolations/nc67-uf89
 
 ## We use SQL, Spark and Hadoop technologies to analyze the NYC Open data. These technologies help us attain some useful insights about the parking and open violations in New York City. 
